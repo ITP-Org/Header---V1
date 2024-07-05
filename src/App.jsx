@@ -5,13 +5,12 @@ import Header from './Header.jsx'
 import ScrollContainer from './ScrollContainer.jsx'
 import HeroBackground from './HeroBackground.jsx'
 
-
 function App() {
 
   return (
     <>
     <Header></Header>
-    <HeroBackground />
+    <HeroBackground></HeroBackground>
     <ScrollContainer />
     <Footer></Footer>
     </>
