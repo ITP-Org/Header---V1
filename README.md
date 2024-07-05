@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Header---V1
 # Header---V1
 # Chemistry-LMS-Home-new
+# Chemistry-LMS-Home-new
